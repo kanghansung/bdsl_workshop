@@ -10,6 +10,8 @@ int func3(){
     return 3;
 }
 
-int main(){
+int main()
+{
+    printf("BDSL workshop\n");
     return 0;
 }
