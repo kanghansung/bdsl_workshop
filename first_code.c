@@ -1,13 +1,13 @@
 int func1(){
-    return 0;
+    return 1;
 }
 
 int func2(){
-    return 0;
+    return 2;
 }
 
 int func3(){
-    return 0;
+    return 3;
 }
 
 int main(){
