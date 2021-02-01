@@ -2,7 +2,9 @@ int func1(){
     return 1;
 }
 
-int func2(){
+int func2()
+{
+    // bug fix
     return 2;
 }
 
