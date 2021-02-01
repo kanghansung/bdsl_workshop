@@ -7,6 +7,7 @@ int func2(){
 }
 
 int func3(){
+    printf("called func3\n");
     return 3;
 }
 
