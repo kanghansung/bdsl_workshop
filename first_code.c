@@ -1,3 +1,4 @@
+
 int func1(){
     return 1;
 }
@@ -5,6 +6,7 @@ int func1(){
 int func2()
 {
     // bug fix
+    // fadifhsdfjhsdlk
     return 2;
 }
 
