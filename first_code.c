@@ -3,6 +3,7 @@ int func1(){
     return 1;
 }
 
+// 형주형
 int func2()
 {
     // bug fix
@@ -10,6 +11,7 @@ int func2()
     return 2;
 }
 
+// 형준형
 int func3(){
     return 3;
 }
